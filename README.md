@@ -24,7 +24,7 @@
 ---
 
 ### QA Portfolio
-[My QA portfolio repository](https://github.com/qrifoncheek/qa)
+[My QA portfolio repository](https://github.com/grifoncheek/qa)
 
 ---
 
